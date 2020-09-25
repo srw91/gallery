@@ -98,6 +98,14 @@
     },
     {
       "height": 1000,
+      "compressed_path": "./photos/\u822a\u7a7a/DSC_3990.min.jpg",
+      "width": 1498,
+      "compressed": true,
+      "placeholder_path": "./photos/\u822a\u7a7a/DSC_3990.placeholder.jpg",
+      "path": "./photos/\u822a\u7a7a/DSC_3990.jpg"
+    },
+    {
+      "height": 1000,
       "compressed_path": "./photos/\u822a\u7a7a/DSC_2593.min.jpg",
       "width": 1498,
       "compressed": true,
@@ -217,6 +225,14 @@
       "compressed": true,
       "placeholder_path": "./photos/\u65c5\u884c/DSC_7500.placeholder.jpg",
       "path": "./photos/\u65c5\u884c/DSC_7500.jpg"
+    },
+    {
+      "height": 1000,
+      "compressed_path": "./photos/\u65c5\u884c/DSC_7105.min.jpg",
+      "width": 1500,
+      "compressed": true,
+      "placeholder_path": "./photos/\u65c5\u884c/DSC_7105.placeholder.jpg",
+      "path": "./photos/\u65c5\u884c/DSC_7105.jpg"
     },
     {
       "height": 1000,
