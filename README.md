@@ -35,7 +35,7 @@ $ git push origin gh-pages  # This pushes your gallery to be hosted!
 ```
 - Check out your site at {username}.github.io/gallery 
 
-*Important notes:* To ⏭speed⏭ up the loading time of your gallery, please make sure to compress your images. If you're running this on a macOS system, this is done automatically for you using `sips`!
+*Important notes:* To speed up the loading time of your gallery, please make sure to compress your images. This repo uses mogrify from imagemagick to do this. If you're on a macOS system, this is done automatically for you using `sips` in andyzg's original repo. 
 If you want Google Analytics, replace `_includes/ga.html` with your own snippet.
 
 
