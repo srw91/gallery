@@ -35,7 +35,7 @@
     {
       "height": 1000,
       "compressed_path": "./photos/\u822a\u7a7a/DSC_2008.min.jpg",
-      "width": 1333,
+      "width": 1500,
       "compressed": true,
       "placeholder_path": "./photos/\u822a\u7a7a/DSC_2008.placeholder.jpg",
       "path": "./photos/\u822a\u7a7a/DSC_2008.jpg"
@@ -57,9 +57,9 @@
       "path": "./photos/\u822a\u7a7a/DSC_2593.jpg"
     },
     {
-      "height": 3728,
+      "height": 1335,
       "compressed_path": "./photos/\u822a\u7a7a/DSC_2982.min.jpg",
-      "width": 5585,
+      "width": 2000,
       "compressed": true,
       "placeholder_path": "./photos/\u822a\u7a7a/DSC_2982.placeholder.jpg",
       "path": "./photos/\u822a\u7a7a/DSC_2982.jpg"
@@ -113,9 +113,9 @@
       "path": "./photos/\u822a\u7a7a/DSC_3990.jpg"
     },
     {
-      "height": 3707,
+      "height": 1335,
       "compressed_path": "./photos/\u822a\u7a7a/DSC_4144.min.jpg",
-      "width": 5553,
+      "width": 2000,
       "compressed": true,
       "placeholder_path": "./photos/\u822a\u7a7a/DSC_4144.placeholder.jpg",
       "path": "./photos/\u822a\u7a7a/DSC_4144.jpg"
@@ -243,9 +243,9 @@
       "path": "./photos/\u65c5\u884c/DSC_4061.jpg"
     },
     {
-      "height": 4015,
+      "height": 1335,
       "compressed_path": "./photos/\u65c5\u884c/DSC_4084.min.jpg",
-      "width": 6015,
+      "width": 2000,
       "compressed": true,
       "placeholder_path": "./photos/\u65c5\u884c/DSC_4084.placeholder.jpg",
       "path": "./photos/\u65c5\u884c/DSC_4084.jpg"
