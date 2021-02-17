@@ -74,14 +74,6 @@
     },
     {
       "height": 1000,
-      "compressed_path": "./photos/\u822a\u7a7a/DSC_3096.min.jpg",
-      "width": 1498,
-      "compressed": true,
-      "placeholder_path": "./photos/\u822a\u7a7a/DSC_3096.placeholder.jpg",
-      "path": "./photos/\u822a\u7a7a/DSC_3096.jpg"
-    },
-    {
-      "height": 1000,
       "compressed_path": "./photos/\u822a\u7a7a/DSC_3206.min.jpg",
       "width": 1498,
       "compressed": true,
@@ -111,6 +103,14 @@
       "compressed": true,
       "placeholder_path": "./photos/\u822a\u7a7a/DSC_3990.placeholder.jpg",
       "path": "./photos/\u822a\u7a7a/DSC_3990.jpg"
+    },
+    {
+      "height": 4015,
+      "compressed_path": "./photos/\u822a\u7a7a/DSC_3994.min.jpg",
+      "width": 6015,
+      "compressed": true,
+      "placeholder_path": "./photos/\u822a\u7a7a/DSC_3994.placeholder.jpg",
+      "path": "./photos/\u822a\u7a7a/DSC_3994.jpg"
     },
     {
       "height": 1335,
@@ -161,9 +161,9 @@
       "path": "./photos/\u822a\u7a7a/DSC_7076.jpg"
     },
     {
-      "height": 1000,
+      "height": 1667,
       "compressed_path": "./photos/\u822a\u7a7a/DSC_7146.min.jpg",
-      "width": 1500,
+      "width": 2500,
       "compressed": true,
       "placeholder_path": "./photos/\u822a\u7a7a/DSC_7146.placeholder.jpg",
       "path": "./photos/\u822a\u7a7a/DSC_7146.jpg"
